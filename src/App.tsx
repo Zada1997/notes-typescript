@@ -26,6 +26,7 @@ export type NoteData = {
   tags: Tag[]
 }
 
+
 export type Tag = {
   id: string
   label: string
